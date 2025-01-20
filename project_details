@@ -1,0 +1,31 @@
+#  python --version
+#  1558  pip install virtualenv
+#  1559  python -m venv restapi_env
+#  1560  source restapi_env
+#  1561  source restapi_env/bin/activate
+#  1562  pip install django
+#  1563  pip install --upgrade pip
+#  1564  django-admin startproject dj-restapi-main .
+#  1565  django-admin startproject dj_restapi_main .
+#  1566  pip install djangorestframework
+#  1567  python manage.py startapp students
+#  1568  python manage.py runserver
+#  1569  python manage.py makemigrations
+#  1570  python manage.py migrate
+#  1571  python manage.py runserver
+#  1572  python manage.py startapp api
+
+
+#  admin login details
+
+#  un : mac
+#  pw : 1234
+
+
+django admin custom templates
+
+https://github.com/django/django
+
+we can download, templates code from here. 
+
+https://github.com/django/django/blob/main/django/contrib/admin/templates/admin/base_site.html
